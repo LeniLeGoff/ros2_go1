@@ -19,3 +19,5 @@ Useful repos:
 - https://github.com/katie-hughes/unitree_ros2
 - https://github.com/unitreerobotics/unitree_ros2_to_real
 - https://github.com/navneethooda/go1_description
+- https://github.com/Atharva-05/unitree_ros2_sim
+- https://github.com/unitreerobotics/unitree_ros
